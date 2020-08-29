@@ -1,0 +1,2 @@
+# fotoku
+blog
